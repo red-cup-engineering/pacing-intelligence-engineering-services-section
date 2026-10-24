@@ -1,11 +1,11 @@
 {
-  "name": "@red-cup-engineering/pacing-intelligence-services-section",
+  "name": "@red-cup-engineering/pacing-intelligence-engineering-services-section",
   "version": "0.2.2",
   "type": "module",
   "description": "Pure biometric math for infection-associated chronic illness pacing: rolling baselines, morning deviation, the Workwell heart-rate heuristic, and conservative, evidence-labeled PEM risk flags. No I/O, no clock, no diagnosis.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/pacing-intelligence-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/pacing-intelligence-engineering-services-section.git"
   },
   "sideEffects": false,
   "exports": "./src/pacing-intelligence.mjs",
