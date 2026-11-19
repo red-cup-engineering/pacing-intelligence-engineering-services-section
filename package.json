@@ -7,12 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/pacing-intelligence-engineering-services-section.git"
   },
-  "sideEffects": false,
   "exports": "./src/pacing-intelligence.mjs",
-  "engines": {
-    "node": ">=24"
-  },
-  "private": false,
   "files": [
     "package.json",
     "README*",
@@ -20,9 +15,5 @@
     "src",
     "scripts"
   ],
-  "license": "MIT",
-  "funding": {
-    "type": "individual",
-    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
-  }
+  "license": "MIT"
 }
